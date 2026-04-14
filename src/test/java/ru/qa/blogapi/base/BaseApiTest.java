@@ -21,4 +21,5 @@ public abstract class BaseApiTest {
                 .setAccept(ContentType.JSON)
                 .build();
     }
+
 }
